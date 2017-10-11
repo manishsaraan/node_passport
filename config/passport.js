@@ -214,6 +214,6 @@ module.exports = function(passport) {
 
     }));
 
-};
+
 
 };
